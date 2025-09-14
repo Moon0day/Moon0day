@@ -18,7 +18,6 @@
 - 💻 I code in **C++**, **Python**, **Shell**, a little **Rust**—with a heart for **cybersecurity**.
 - 🤖 Driven by the limitless world of **AI**—not just tools, but the true minds and creativity of human coders.
 - 🌚 Dark mode everything. Professional, but never boring.
-- ❤️ Open source... and open to DM’s (single & ready for merge requests 😉).
 
 ---
 
@@ -53,7 +52,7 @@
 
 <p align="center" style="color:#6272a4;">
   <i>Night owl, dreamer, and unapologetically open source.<br>
-  Ladies, my heart (and my code) is open for collaboration.</i>
+</i>
 </p>
 
 <p align="center">
