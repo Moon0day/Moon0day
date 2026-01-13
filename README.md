@@ -2,7 +2,7 @@
 
 > **Present Day. Present Time. HAHAHAHAHAHA...**
 
-![lain](https://tenor.com/view/lain-serial-experiments-lain-gif-26108112)
+![lain](https://media1.tenor.com/m/v-d5E2Xnv_sAAAAd/lain-serial-experiments-lain.gif)
 
 ## _who am i?_
 
